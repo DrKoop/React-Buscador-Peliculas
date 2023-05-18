@@ -22,3 +22,8 @@ Primera iteración:
 ✅ Haz que la búsqueda se haga automáticamente al escribir.
 
 ✅ Evita que se haga la búsqueda continuamente al escribir (debounce)
+
+
+![demoreactpeliculas](https://github.com/DrKoop/React-Buscador-Peliculas/assets/95058605/d6577955-1f7e-4c3d-b0b5-db886f98fd0b)
+
+
